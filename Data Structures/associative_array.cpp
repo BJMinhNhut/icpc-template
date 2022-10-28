@@ -14,7 +14,7 @@ using namespace std;
 #define MASK(s) (1ll<<(s))
 
 /* Variables type shortname */
-typedef long long ll;
+typedef int64_t ll;
 typedef vector<int> vi;
 typedef vector<ll> vll;
 typedef pair<int, int> ii;
